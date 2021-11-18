@@ -20,7 +20,7 @@ In the last two columns, we see a different story. When we look at Average Fare 
 
 From the chart displayed below, we can see that Urban earnings is more volatile. We don't see the peaks and valleys in Suburban and Rural areas that we do in Urban areas. 
 
-![](analysis/Challenge_Fare_Summary.png)
+![](Resources/Challenge_Fare_Summary.png)
 
 ## Summary: 
 
